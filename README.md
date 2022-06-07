@@ -1,4 +1,4 @@
-# CSE 676 Deep Learning project
+# Geometric Deep Learning Methods with Drug Chemistry for Drug Pair Interactions -CSE 676 Deep Learning project
 Please download the whole files as the computation is really slow for training.
 
 ### Step1:

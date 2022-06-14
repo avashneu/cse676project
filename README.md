@@ -1,5 +1,10 @@
 # Geometric Deep Learning Methods with Drug Chemistry for Drug Pair Interactions -CSE 676 Deep Learning project
 Please download the whole files as the computation is really slow for training.
+OR
+Use online in MyBinder with this link:
+https://mybinder.org/v2/gh/avashneu/cse676project/HEAD
+
+Follow the steps below:
 
 ### Step1:
 Create folders names image_data and image_encoded_data
